@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    color: cadetblue; 
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+h2 {
+    color: coral; 
+    text-align: center;
+}
+
+h4 {
+    color:darkred; 
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside; 
+    color: black;
+}
+
+img {
+    text-align: center;
+    height: 300;
+    width: 500;
+}
+
+p {
+    text-align: center; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
